@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CelsiusToFahrenheit {
     public static void main(String[] args) {
         /* Escribe un programa que convierta una temperatura en grados Celsius a Fahrenheit.
         Utiliza variables para representar los valores de las temperaturas e imprime en la
